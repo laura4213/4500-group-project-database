@@ -1022,3 +1022,19 @@ Received Import Request.
 Start importing Assets/Scripts/GameManager.cs using Guid(566bb6cc8ad142a41a0e6b147c6a9aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936e201fb8f0c22fff392991e90adeb3') in 0.010500 seconds
   Import took 0.017572 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2754.619226 seconds.
+  path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+  artifactKey: Guid(f81094832d834c64d93b198cb16b6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/big-logo@2x.png using Guid(f81094832d834c64d93b198cb16b6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb35b7cdc7280916be9dc99750759444') in 0.213850 seconds
+  Import took 0.221108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.638837 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+  artifactKey: Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124607015285629022b833b1af000264') in 0.013059 seconds
+  Import took 0.018058 seconds .
+
