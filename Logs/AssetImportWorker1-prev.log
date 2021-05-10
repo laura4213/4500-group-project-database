@@ -15,11 +15,11 @@ C:/Users/laura/Downloads/4500-group-project-database/4500-group-project-database
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-50157
+51444
 Successfully changed project path to: C:/Users/laura/Downloads/4500-group-project-database/4500-group-project-database
 C:/Users/laura/Downloads/4500-group-project-database/4500-group-project-database
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 193.33 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 131.75 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,311 +35,29 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004012 seconds.
+Registered in 0.012721 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 62.43 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 81.34 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.201 seconds
+- Completed reload, in 10.248 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016731 seconds.
+Registered in 0.025361 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 7.30 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Find all reader and writers took 239 milliseconds
+Find all reader and writers took 202 milliseconds
 Script Module: UnityEngine.UI.dll
-Weave behaviours and messages took186 milliseconds
-Find all reader and writers took 251 milliseconds
+Weave behaviours and messages took215 milliseconds
+Find all reader and writers took 158 milliseconds
 Script Module: PhotonUnityNetworking.Utilities.dll
-Weave behaviours and messages took38 milliseconds
-Find all reader and writers took 200 milliseconds
-Script Module: Assembly-CSharp.dll
-Weave behaviours and messages took58 milliseconds
+Weave behaviours and messages took32 milliseconds
 Find all reader and writers took 176 milliseconds
-Script Module: UnityEngine.TestRunner.dll
-Weave behaviours and messages took50 milliseconds
-Find all reader and writers took 144 milliseconds
-Script Module: PhotonVoice.API.dll
-Weave behaviours and messages took40 milliseconds
-Find all reader and writers took 184 milliseconds
-Script Module: PhotonVoice.dll
-Weave behaviours and messages took37 milliseconds
-Find all reader and writers took 105 milliseconds
-Script Module: SimpleWebTransport.dll
-Weave behaviours and messages took10 milliseconds
-Find all reader and writers took 166 milliseconds
-Script Module: Unity.Timeline.dll
-Weave behaviours and messages took76 milliseconds
-Find all reader and writers took 194 milliseconds
-Script Module: PhotonUnityNetworking.Demos.dll
-Weave behaviours and messages took84 milliseconds
-Find all reader and writers took 205 milliseconds
-Script Module: PhotonUnityNetworking.dll
-Weave behaviours and messages took63 milliseconds
-Find all reader and writers took 231 milliseconds
-Script Module: Unity.TextMeshPro.dll
-Weave behaviours and messages took169 milliseconds
-Find all reader and writers took 234 milliseconds
-Script Module: PhotonChat.dll
-Weave behaviours and messages took14 milliseconds
-Find all reader and writers took 195 milliseconds
-Script Module: PhotonWebSocket.dll
-Weave behaviours and messages took0 milliseconds
-Find all reader and writers took 132 milliseconds
-Script Module: PhotonRealtime.dll
-Weave behaviours and messages took25 milliseconds
-Find all reader and writers took 144 milliseconds
-Script Module: Telepathy.dll
-Weave behaviours and messages took7 milliseconds
-Find all reader and writers took 182 milliseconds
-Script Module: PhotonVoice.PUN.dll
-Weave behaviours and messages took4 milliseconds
-Find all reader and writers took 95 milliseconds
-Script Module: kcp2k.dll
-Weave behaviours and messages took5 milliseconds
-Find all reader and writers took 92 milliseconds
-Script Module: Mirror.Examples.Cloud.GUI.dll
-Weave behaviours and messages took6 milliseconds
-Find all reader and writers took 93 milliseconds
-Script Module: Mirror.Cloud.dll
-Weave behaviours and messages took4 milliseconds
-Find all reader and writers took 154 milliseconds
-Script Module: UnityEditor.TestRunner.dll
-Weave behaviours and messages took160 milliseconds
-Find all reader and writers took 134 milliseconds
-Script Module: UnityEditor.UI.dll
-Weave behaviours and messages took15 milliseconds
-Find all reader and writers took 132 milliseconds
-Script Module: Mirror.CompilerSymbols.dll
-Weave behaviours and messages took0 milliseconds
-Find all reader and writers took 164 milliseconds
-Script Module: PunDemos.DemoSlotcarEditor.dll
-Weave behaviours and messages took0 milliseconds
-Find all reader and writers took 193 milliseconds
-Script Module: PunDemos.DemoHubEditor.dll
-Weave behaviours and messages took0 milliseconds
-Mono: successfully reloaded assembly
-- Completed reload, in 18.390 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
-Refreshing native plugins compatible for Editor in 3.35 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1768 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 78.8 MB.
-System memory in use after: 78.9 MB.
-
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 2172.
-Total: 8.319500 ms (FindLiveObjects: 0.401700 ms CreateObjectMapping: 0.180600 ms MarkObjects: 7.585000 ms  DeleteObjects: 0.150100 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
-  artifactKey: Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4331eac57dd4563c3e965468f31314d') in 0.150890 seconds
-  Import took 0.164162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.443012 seconds.
-  path: Assets/Scenes/Game.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Game.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c7f07dbb3ff5e40c7a16f71f3d8278') in 0.026690 seconds
-  Import took 0.036700 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.276614 seconds.
-  path: Assets/Photon/PhotonChat/Code/PhotonChat.asmdef
-  artifactKey: Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonChat/Code/PhotonChat.asmdef using Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa442020d994b57590d3c7a0445427c') in 0.025815 seconds
-  Import took 0.031336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.284215 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(7a66d462d5b740c4c9d1ec3cea6ce646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(7a66d462d5b740c4c9d1ec3cea6ce646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a689ca6565f4d0922032a1288b3ee1c') in 0.020931 seconds
-  Import took 0.026613 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 97.937772 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e4f587c23674256bb898581e82961') in 0.043110 seconds
-  Import took 0.055218 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.390076 seconds.
-  path: Assets/Scripts/PhotonChatManager.cs
-  artifactKey: Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PhotonChatManager.cs using Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16bcaf31bafad51f94853e929d93a5cd') in 0.053987 seconds
-  Import took 0.059603 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.022554 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.686 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.42 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1762 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 78.6 MB.
-System memory in use after: 78.7 MB.
-
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2177.
-Total: 3.753700 ms (FindLiveObjects: 0.384100 ms CreateObjectMapping: 0.158700 ms MarkObjects: 3.076800 ms  DeleteObjects: 0.131300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 342.366933 seconds.
-  path: Assets/Scripts/PhotonChatManager.cs
-  artifactKey: Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PhotonChatManager.cs using Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc6ee932314ff3e2cf8d6dd0a1ad51b') in 0.018282 seconds
-  Import took 0.029455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 36.234280 seconds.
-  path: Assets/Scripts/PhotonChatManager.cs
-  artifactKey: Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PhotonChatManager.cs using Guid(0b90f99bc106e234098687764807a435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5f3616d2f1ebf570f3234223c19746') in 0.052020 seconds
-  Import took 0.061853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1276.932764 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Code/PhotonUnityNetworking.asmdef
-  artifactKey: Guid(57c32fc907df0f54e8e6e8f0d2488336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Code/PhotonUnityNetworking.asmdef using Guid(57c32fc907df0f54e8e6e8f0d2488336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67df24708c4bdcfdf8f3b313ecdf945') in 0.018843 seconds
-  Import took 0.024816 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.023452 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.825 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 78.6 MB.
-System memory in use after: 78.7 MB.
-
-Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 2180.
-Total: 3.711700 ms (FindLiveObjects: 0.374900 ms CreateObjectMapping: 0.173700 ms MarkObjects: 3.111100 ms  DeleteObjects: 0.049700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.022838 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.058 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.51 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 78.6 MB.
-System memory in use after: 78.8 MB.
-
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2184.
-Total: 3.558800 ms (FindLiveObjects: 0.382800 ms CreateObjectMapping: 0.179600 ms MarkObjects: 2.924800 ms  DeleteObjects: 0.069000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 4731.335337 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Demos/PhotonUnityNetworking.Demos.asmdef
-  artifactKey: Guid(35cc2632df2760540bcc67312740008b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Demos/PhotonUnityNetworking.Demos.asmdef using Guid(35cc2632df2760540bcc67312740008b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cd09d3740305d46279191eb235c27c') in 0.031540 seconds
-  Import took 0.038111 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.336118 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIcon-128.png
-  artifactKey: Guid(bd293dc32f4aaf94e8274f2fac2cdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIcon-128.png using Guid(bd293dc32f4aaf94e8274f2fac2cdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd526408712a416d02d6012b8e2960d55') in 0.254158 seconds
-  Import took 0.260375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000342 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp512.png
-  artifactKey: Guid(7377013011b4c3348809ff574abe799e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp512.png using Guid(7377013011b4c3348809ff574abe799e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bc1a998adc9c862e395e7c484640ad') in 0.065204 seconds
-  Import took 0.070486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp128.png
-  artifactKey: Guid(f00feafcf0675cd47a48f83ae42b06d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp128.png using Guid(f00feafcf0675cd47a48f83ae42b06d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b897bdfba4b61c9a2395af4bb7fbde') in 0.060176 seconds
-  Import took 0.066340 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp32.png
-  artifactKey: Guid(436c5e63723127948af8857e903f658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp32.png using Guid(436c5e63723127948af8857e903f658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7437ffad674ce964ee702e6de9fb2831') in 0.042349 seconds
-  Import took 0.049916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000638 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp48.png
-  artifactKey: Guid(44ebd8e6f42cae445ab4b22f0a9b48a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp48.png using Guid(44ebd8e6f42cae445ab4b22f0a9b48a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88817e67544adf8a164d940d6b3e1f3b') in 0.054913 seconds
-  Import took 0.063203 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.291887 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
-  artifactKey: Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(63145852f2d469746af4181435798b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6687331f34d6ef4a68ae82a7e2023bea') in 0.009036 seconds
-  Import took 0.014869 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.879988 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonUnityNetworking.Utilities.asmdef
-  artifactKey: Guid(a738238285a7a8246af046cbf977522f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonUnityNetworking.Utilities.asmdef using Guid(a738238285a7a8246af046cbf977522f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1de0dc27d3139c7e03c253f7eabb945') in 0.019325 seconds
-  Import took 0.024855 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.578799 seconds.
-  path: Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.asmdef
-  artifactKey: Guid(7024f760fc566cf45a16d2c838e22b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.asmdef using Guid(7024f760fc566cf45a16d2c838e22b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496365d2f2d3a7f3775b854fef601995') in 0.028317 seconds
-  Import took 0.032869 seconds .
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+Script Module: Assembly-CSharp.dll
+Weave behaviours and messages took56 milliseconds
